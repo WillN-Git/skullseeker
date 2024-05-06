@@ -1,0 +1,537 @@
+fileFormatVersion: 2
+guid: 61f53f61accfdd840aeaa43be66a29fd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 28
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 670
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8823a6e2f97e1e4e9fc1a0e9a39cf22
+      internalID: -1318625870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 670
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382e0e9472d81bc4bb4db83a2d14c896
+      internalID: 1959701549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 670
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc38232ce5d58b4dab3447e025ef9a7
+      internalID: -2131097185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 592
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7761a18bc43ea73408b86b90e4416f0e
+      internalID: -313381999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 591
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43adad4a480376d489aa9dbbfee100d7
+      internalID: 1172901175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_3
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 591
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75960b1e3548ac48817424f5f3f1d11
+      internalID: -514356283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_4
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 591
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3fcaeb223f0b745818729019ae9404
+      internalID: 1033112903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_72
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 6
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d571cd2834110c94f974731e31dbba7a
+      internalID: 435255642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeonsheet_73
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 6
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85566922b3ebf443b3153c8f53bae00
+      internalID: -1845327106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 512
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d133c6562c9f74683d8f12eca7cb0b
+      internalID: 1757648774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_4
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 512
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0f1f2bdbccd914788620bc97b830fe
+      internalID: -1285023823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 512
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ff2a548cf0a7448bed05fba862cd59
+      internalID: -633369399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_6
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 512
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4444641dd3955b04b942b93964e22bb5
+      internalID: 280208571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cede3e6631ccba747a4014b6633c7074
+      internalID: -638026296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 513
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520f99b96918d484bbae67098d2656cb
+      internalID: -1331487846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dodge_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 513
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61ce59d8daba0141943dc18d3c9456a
+      internalID: -284722111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dodge_1: -1331487846
+      Dodge_2: -284722111
+      Dodge_3: 1757648774
+      Dodge_4: -1285023823
+      Dodge_5: -633369399
+      Dodge_6: 280208571
+      Dodge_7: -638026296
+      Idle_1: -1318625870
+      Idle_2: 1959701549
+      Idle_3: -2131097185
+      Walk_1: -313381999
+      Walk_2: 1172901175
+      Walk_3: -514356283
+      Walk_4: 1033112903
+      xeonsheet_10: -976728195
+      xeonsheet_11: -710159379
+      xeonsheet_12: -1335890637
+      xeonsheet_13: -578658678
+      xeonsheet_18: -604806944
+      xeonsheet_19: 2003194390
+      xeonsheet_20: 893938069
+      xeonsheet_21: 1317654831
+      xeonsheet_22: 613126797
+      xeonsheet_23: -1794464830
+      xeonsheet_24: 777578576
+      xeonsheet_25: -871742293
+      xeonsheet_26: 1831877975
+      xeonsheet_27: 260742662
+      xeonsheet_28: -189256484
+      xeonsheet_29: -1092711509
+      xeonsheet_30: 1651877829
+      xeonsheet_31: 354642348
+      xeonsheet_32: -1171171293
+      xeonsheet_33: -1627990980
+      xeonsheet_34: 541701725
+      xeonsheet_35: 426459629
+      xeonsheet_36: -1140416499
+      xeonsheet_37: -849301077
+      xeonsheet_38: 925811794
+      xeonsheet_39: 1490885162
+      xeonsheet_40: -1448674483
+      xeonsheet_41: -1817019635
+      xeonsheet_42: -1871208460
+      xeonsheet_43: 1164609795
+      xeonsheet_44: -809842655
+      xeonsheet_45: 1220241918
+      xeonsheet_46: -1504184772
+      xeonsheet_47: -1443251423
+      xeonsheet_48: 1487267457
+      xeonsheet_49: -931594700
+      xeonsheet_50: 1649858430
+      xeonsheet_51: -745384484
+      xeonsheet_52: 1507566485
+      xeonsheet_53: -1412192798
+      xeonsheet_54: -1910760636
+      xeonsheet_55: 1557264908
+      xeonsheet_56: -103824366
+      xeonsheet_57: 1402221991
+      xeonsheet_58: 442797484
+      xeonsheet_59: 1546882941
+      xeonsheet_60: -261663951
+      xeonsheet_61: -1199186261
+      xeonsheet_62: -1734260615
+      xeonsheet_63: -401389292
+      xeonsheet_64: 1216569556
+      xeonsheet_65: 1612904485
+      xeonsheet_66: -652571056
+      xeonsheet_67: -845121944
+      xeonsheet_68: 864071067
+      xeonsheet_69: -1656541009
+      xeonsheet_70: 1365909052
+      xeonsheet_71: 1964904535
+      xeonsheet_72: 435255642
+      xeonsheet_73: -1845327106
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
